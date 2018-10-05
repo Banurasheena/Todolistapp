@@ -1,0 +1,39 @@
+li{
+    display:inline;
+    font-size: 35px;
+    margin: 70px;
+    list-style: none;
+    
+}
+ul{
+    background-color: lime
+}
+h1{
+    color:blue;
+    text-align: center;
+}
+html{
+    background-color: crimson
+}
+form{
+    text-align: center;
+}
+table, th, td{
+    border:3px solid blue;
+    
+}
+table{
+    width:100%
+}
+button{
+    text-align: center;
+}
+.tina{
+    color:blue;
+}
+.rina{
+    color:red
+}
+footer{
+    text-align: center;
+}
