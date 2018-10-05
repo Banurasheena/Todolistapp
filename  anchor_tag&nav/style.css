@@ -18,13 +18,9 @@ html{
 form{
     text-align: center;
 }
-table, th, td{
-    border:3px solid blue;
-    
-}
-table{
-    width:100%
-}
+
+
+
 button{
     text-align: center;
 }
